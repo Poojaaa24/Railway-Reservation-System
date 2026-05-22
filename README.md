@@ -39,7 +39,8 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-![alt text](<Screenshot 2026-05-21 101859.png>)
+<img width="1405" height="1119" alt="image" src="https://github.com/user-attachments/assets/e4f4bb36-1de5-4166-b549-589f6ad1c818" />
+
 
 # CLASS DIAGRAM
 
@@ -55,7 +56,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-![alt text](<Screenshot 2026-05-21 101941.png>)
+
 
 # COMMUNICTION DIAGRAM:
 
